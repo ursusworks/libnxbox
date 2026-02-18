@@ -21,6 +21,8 @@ If you want to play a xCloud title instead of Console streaming, you can use the
 - Host IP - I just treat this as a dummy value to maintain compatibility with the moonlight nro forwarder. So just set 127.0.0.1 or some other iP addr.
 - AppID - this is where we select the xCloud title. So for example Kingdom Come: Deliverance, enter KINGDOMCOMEDELIVERANCE - Not sure what the best way to get this from. I used dev tools to find the request when starting the title from xbox.com/play
 
+* xCloud title takes a little longer to load than console streaming. A little under a minute, is what I've seen while testing
+* If you want to connect to your console outside of LAN and struggle to conneect, make sure that you can access your console on UDP port 9002 (port forwarding)
 
 ## Architecture
 
