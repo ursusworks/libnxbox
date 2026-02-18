@@ -56,6 +56,41 @@ When you first launch the nro it will check to see if there is a token.dat file 
 
 When the token.dat file is created, it will use this to refresh MSAL tokens going forward. So unless you delete the file or the stored token becomes invalid, you wont see this screen again.
 
+## Button Mapping
+
+Face buttons are mapped by **physical position** (not label), so the right-side button on Switch maps to the right-side button on Xbox, etc.
+
+| Switch | Xbox | Position |
+|--------|------|----------|
+| A | B | Right |
+| B | A | Bottom |
+| X | Y | Top |
+| Y | X | Left |
+| L | LB | Left bumper |
+| R | RB | Right bumper |
+| ZL | LT (full) | Left trigger (digital → 0 or 100%) |
+| ZR | RT (full) | Right trigger (digital → 0 or 100%) |
+| L-Stick click | L3 | Left stick press |
+| R-Stick click | R3 | Right stick press |
+| D-Pad | D-Pad | Directional |
+| − | View/Select | |
+| + (short press) | Menu/Start | < 500 ms hold |
+| + (long press) | Nexus/Guide | ≥ 500 ms hold |
+
+# Analog Sticks
+
+- Range: −32768 to 32767 (matches Xbox format)
+- Deadzone: ±2000 (values within deadzone snap to 0)
+- Y-axis convention: up = positive (same on both platforms)
+
+# Triggers
+
+The Switch has digital ZL/ZR buttons (no analog travel). They are mapped as fully pressed (65535) or released (0).
+
+# Rumble 
+
+Work in progress
+
 ## Architecture
 
 ```
