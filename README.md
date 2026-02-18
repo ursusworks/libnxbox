@@ -35,6 +35,7 @@ Some titleIds that I've seen:
 So might be that it's all caps and all special characters stripped. So Assassin's Creed: Shadows becomes ASSASSINSCREEDSHADOWS
 
 But the only way of knowing is to launch a title when dev-tools is open, with HAR checked. Look at the network tab and look for the titleId there
+
 ![Screenshot](./DEVTOOLS.png)
 
 ## Troubleshooting
