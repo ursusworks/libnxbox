@@ -28,9 +28,9 @@ Example of an NRO forwarder:
 Install the .NSP file and once you launch the game on the switch, that xCloud title should be launched. (xCloud title takes a little longer to launch in my experience, about 50 sec.)
 
 Some titleIds that I've seen:
-ASSASSINSCREEDSHADOWS
-KINGDOMCOMEDELIVERANCE
-ARCRAIDERS
+- ASSASSINSCREEDSHADOWS
+- KINGDOMCOMEDELIVERANCE
+- ARCRAIDERS
 
 So might be that it's all caps and all special characters stripped. So Assassin's Creed: Shadows becomes ASSASSINSCREEDSHADOWS
 
