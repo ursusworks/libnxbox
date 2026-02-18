@@ -48,6 +48,8 @@ But the only way of knowing is to launch a title when dev-tools is open, with HA
 
 ## Authentication
 
+All authentication goes through Microsofts official servers. My application stores nothing but the token. I will NEVER see or know about your user information.
+
 When you first launch the nro it will check to see if there is a token.dat file stored on the sd card (/switch/libnxbox/token.dat). If there is no such file. It will promt you to sign-in
 ![Screenshot](./AUTHWINDOW.png)
 
