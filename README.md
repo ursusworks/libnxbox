@@ -103,7 +103,7 @@ XSTS Token                                     SCTP Data Channels
 GSSV Token                                     Video/Audio/Input
 ```
 Video
-```
+
 | Parameter | Value |
 |-----------|-------|
 | Resolution | 1280×720 (720p) |
@@ -112,16 +112,16 @@ Video
 | Hardware decode | Tegra X1 NVDEC |
 | Rendering | deko3d NV12→RGB shader, triple-buffered |
 | Colorspace | BT.709 |
-```
+
 Audio
-```
+
 | Parameter | Value |
 |-----------|-------|
 | Codec | Opus (WebM container) |
 | Sample rate | 48 kHz |
 | Channels | Stereo |
 | Latency target | ~60 ms |
-```
+
 
 ## Disclaimer
 
