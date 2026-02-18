@@ -6,6 +6,7 @@
 ![Language](https://img.shields.io/badge/language-C99-blue)
 ![License](https://img.shields.io/badge/status-alpha-orange)
 
+## Download
 Grab the libnxbox.nro under releases
 
 ## Important!
