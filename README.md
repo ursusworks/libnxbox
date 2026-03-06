@@ -40,7 +40,7 @@ But the only way of knowing is to launch a title from xbox.com/play with dev-too
 
 ![Screenshot](./DEVTOOLS.png)
 
-# UPDATE
+### UPDATE
 You can now use this to help get the APPID and thumbnail
 [!LibNXboxNROHelper](https://github.com/ursusworks/LibNXboxNROHelper)
 
