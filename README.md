@@ -42,7 +42,7 @@ But the only way of knowing is to launch a title from xbox.com/play with dev-too
 
 ### UPDATE
 You can now use this to help get the APPID and thumbnail
-[!LibNXboxNROHelper](https://github.com/ursusworks/LibNXboxNROHelper)
+![LibNXboxNROHelper](https://github.com/ursusworks/LibNXboxNROHelper)
 
 You can search for whatever game you want on the Microsoft Store. It will generate a game art thumbnail for the games that has cloud stream capabilities.
 the name of the thumbnail will be the appid. It will also generate a titles.txt file with the title name of the game and the xCloud appid.
