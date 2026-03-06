@@ -29,6 +29,15 @@ Example of an NRO forwarder:
 
 Install the .NSP file and once you launch the game on the switch, that xCloud title should be launched. (xCloud title takes a little longer to launch in my experience, about 50 sec.)
 
+### UPDATE
+You can now use this to help get the APPID and thumbnail
+[LibNXboxNROHelper](https://github.com/ursusworks/LibNXboxNROHelper)
+
+You can search for whatever game you want on the Microsoft Store. It will generate a game art thumbnail for the games that has cloud stream capabilities.
+the name of the thumbnail will be the appid. It will also generate a titles.txt file with the title name of the game and the xCloud appid.
+
+### Old info
+
 Some titleIds that I've seen:
 - ASSASSINSCREEDSHADOWS
 - KINGDOMCOMEDELIVERANCE
@@ -40,12 +49,7 @@ But the only way of knowing is to launch a title from xbox.com/play with dev-too
 
 ![Screenshot](./DEVTOOLS.png)
 
-### UPDATE
-You can now use this to help get the APPID and thumbnail
-![LibNXboxNROHelper](https://github.com/ursusworks/LibNXboxNROHelper)
 
-You can search for whatever game you want on the Microsoft Store. It will generate a game art thumbnail for the games that has cloud stream capabilities.
-the name of the thumbnail will be the appid. It will also generate a titles.txt file with the title name of the game and the xCloud appid.
 
 ## Thumbnail for Game art
 I have added a .paint template to this repo. If you want to make Icon like the one in the nro forwarder screenshot.
