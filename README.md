@@ -6,14 +6,14 @@
 ![Language](https://img.shields.io/badge/language-C99-blue)
 ![License](https://img.shields.io/badge/status-alpha-orange)
 
-## Download
-Grab the libnxbox.nro under releases
-
-## ❗Important
+** ❗Important
 - Needs to run in title mode, will crash with applet mode.
 - If you just run the NRO without creating a forwarder, you will need to have an Xbox that is set up for remote streaming. If you have multiple Xbox's tied to your account, you are in untested waters. Please create a issue with logs
 - There is no implementation to show a queue status yet. So if you are running Fortnite with a free account, you're in for a bad time. It will just remain on the Xbox logo pulse, untill the stream is ready, with no feedback on how long the wait time is.
 - This doesn't circumvent any official limitations: If xCloud is not available in your country, this wont help. You will not get any higher bitrates than your subscription allows. It will not enable you to run "Stream your own" games that you don't own, like Assassin's Creed Shadows, Arc Raiders or Marathon.
+
+## Download
+Grab the libnxbox.nro under releases
 
 ## Launching Home streaming (Stream from your own console)
 Just launch the .nro in title mode. It will discover your console, in the same way that xbox.com/play does.
