@@ -156,6 +156,8 @@ By using this software, you acknowledge that:
 
 If you do not agree with these terms, **do not use this software**.
 
+This software will forever be free. I will not ask for donations or a user fee. And in the future when the code is in a state where I can publish it without being too ashamed. I will also ask that all works based on this will do the same. (This is why the license was changed from MIT to GPLv2)
+
 ## Acknowledgements
 
 LibNXBox builds on the work of several open-source projects and community efforts.
