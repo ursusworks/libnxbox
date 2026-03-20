@@ -107,7 +107,8 @@ The Switch has digital ZL/ZR buttons (no analog travel). They are mapped as full
 
 ### Rumble 
 
-Work in progress
+Haptics is implemented in version 0.8.6
+The rumble at 100% was quite strong, so it's been reduced by 50%.
 
 ## Architecture
 
