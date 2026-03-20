@@ -15,6 +15,11 @@
 ## Download
 Grab the libnxbox.nro under releases
 
+## Troubleshooting
+* If you want to connect to your console outside of LAN and struggle to conneect, make sure that you can access your console on UDP port 9002 (port forwarding)
+* If you are stuck on an infinite pulsating Xbox logo. Make sure if you actually are entitled to access that game (limitation of subscriptiont tier or stream your own game title that you don't actually own). It could also be a APPID that does not exist. Verify that you created the forwarder correctly. If it's with a game that you should have access to, you might be stuck in a queue. LibNXbox does not currently show waiting times.
+* libnxbox.nro will create a debug.log file. So if anything goes haywire, the log might have a clue.
+
 ## Launching Home streaming (Stream from your own console)
 Just launch the .nro in title mode. It will discover your console, in the same way that xbox.com/play does.
 I have not tested what happends if you have more than one Xbox connected to your user. Not sure what will happend :) (The world won't burn, but we might struggle to choose the right xbox and stall the connect)
