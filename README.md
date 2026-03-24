@@ -4,7 +4,7 @@
 
 ![Platform](https://img.shields.io/badge/platform-Nintendo%20Switch-e60012)
 ![Language](https://img.shields.io/badge/language-C99-blue)
-![License](https://img.shields.io/badge/status-alpha-orange)
+![License](https://img.shields.io/badge/status-beta-orange)
 
 ## ❗Important
 - Needs to run in title mode, will crash with applet mode.
