@@ -1,6 +1,7 @@
 # LibNXbox
 
 **Xbox Cloud Streaming client for Nintendo Switch** — Stream from your console or xCloud to your Nintendo Switch
+![Screenshot](./2026040922481400-57B4628D2267231D57E0FC1078C0596D.jpg)
 
 ![Platform](https://img.shields.io/badge/platform-Nintendo%20Switch-e60012)
 ![Language](https://img.shields.io/badge/language-C99-blue)
